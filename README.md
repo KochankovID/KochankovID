@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+    <img src="https://www.codewars.com/users/Ilya%20Kochankov/badges/large"
+        height="100">
+</p>
 
-<!--
-**KochankovID/KochankovID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm [@KochankovID](https://t.me/IlyaKochankov) (Kochankov Ilya)
 
-Here are some ideas to get you started:
+:mortar_board: I'm currently studing at Lobachevsky State University of Nizhny Novgorod.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:heart: Python is my favorite language. But I also learn Dart/Flutter, Js, Go, C/C++.
+ 
+:sparkles: My dream is to move to Europe. If you have offer please contact me :3
+
+📫 How to reach me: <ilyakochankov@yandex.ru>
+
+:leopard: [Clouded leopard](https://en.wikipedia.org/wiki/Clouded_leopard) team leader.
+
+😄 Pronouns: he / him / his.
